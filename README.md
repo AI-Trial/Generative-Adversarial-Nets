@@ -3,7 +3,7 @@
 1. レポジトリのクローン
 
 ```
-$ git clone https://github.com/AI-Trial/Reinforcement-Learning.git
+$ git clone https://github.com/AI-Trial/Generative-Adversarial-Nets.git
 ```
 
 2. ローカル編集前に必ず以下のコマンドで最新に反映すること。
